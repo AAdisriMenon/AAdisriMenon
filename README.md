@@ -12,7 +12,7 @@ Interested in:
 - Healthcare AI
 
 Currently building:
-Gut microbiome → metabolite → gene → diabetes prediction pipeline
+ProtMind AI — a bioinformatics/protein analysis web application.
 
 Learning:
 Python, Biopython, Linux, statistical analysis, ML for biological data
